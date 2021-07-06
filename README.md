@@ -6,9 +6,11 @@ t is known based on setup of experiment; then just counting the pixel movement a
 
 
 Data modelling sample.
+
 ![alt text](https://github.com/bijanm2021/mosquitoes01/blob/main/image_explain.jpeg)
 
 Credits
+
 <a href=" ">Summer vector created by freepik - www.freepik.com</a > Mosquitoes
 
 <a href='https://www.freepik.com/vectors/water'>Water vector created by macrovector - www.freepik.com</a >  Container
